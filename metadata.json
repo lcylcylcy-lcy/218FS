@@ -1,0 +1,6 @@
+{
+  "name": "218 family survivor",
+  "description": "218 家族倖存者動作 Roguelite：布丁姊姊、大鋼門、青鬼、熊熊攜手闖關，體驗星願召喚與新手角色二擇一！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
